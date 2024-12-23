@@ -1,0 +1,589 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3B45BD3E2D19A8460077DD1D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B45BD252D19A8450077DD1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B45BD2C2D19A8450077DD1D;
+			remoteInfo = FlutteriOSIntegrate;
+		};
+		3B45BD482D19A8460077DD1D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3B45BD252D19A8450077DD1D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3B45BD2C2D19A8450077DD1D;
+			remoteInfo = FlutteriOSIntegrate;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3B45BD8B2D19BCDD0077DD1D /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3B45BD2D2D19A8450077DD1D /* FlutteriOSIntegrate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlutteriOSIntegrate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B45BD3D2D19A8460077DD1D /* FlutteriOSIntegrateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlutteriOSIntegrateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B45BD472D19A8460077DD1D /* FlutteriOSIntegrateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlutteriOSIntegrateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3B45BD2F2D19A8450077DD1D /* FlutteriOSIntegrate */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlutteriOSIntegrate;
+			sourceTree = "<group>";
+		};
+		3B45BD402D19A8460077DD1D /* FlutteriOSIntegrateTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlutteriOSIntegrateTests;
+			sourceTree = "<group>";
+		};
+		3B45BD4A2D19A8460077DD1D /* FlutteriOSIntegrateUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FlutteriOSIntegrateUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B45BD2A2D19A8450077DD1D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD3A2D19A8460077DD1D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD442D19A8460077DD1D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B45BD242D19A8450077DD1D = {
+			isa = PBXGroup;
+			children = (
+				3B45BD2F2D19A8450077DD1D /* FlutteriOSIntegrate */,
+				3B45BD402D19A8460077DD1D /* FlutteriOSIntegrateTests */,
+				3B45BD4A2D19A8460077DD1D /* FlutteriOSIntegrateUITests */,
+				3B45BD2E2D19A8450077DD1D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B45BD2E2D19A8450077DD1D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B45BD2D2D19A8450077DD1D /* FlutteriOSIntegrate.app */,
+				3B45BD3D2D19A8460077DD1D /* FlutteriOSIntegrateTests.xctest */,
+				3B45BD472D19A8460077DD1D /* FlutteriOSIntegrateUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B45BD2C2D19A8450077DD1D /* FlutteriOSIntegrate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B45BD512D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrate" */;
+			buildPhases = (
+				3B45BD292D19A8450077DD1D /* Sources */,
+				3B45BD2A2D19A8450077DD1D /* Frameworks */,
+				3B45BD2B2D19A8450077DD1D /* Resources */,
+				3B45BD8B2D19BCDD0077DD1D /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3B45BD2F2D19A8450077DD1D /* FlutteriOSIntegrate */,
+			);
+			name = FlutteriOSIntegrate;
+			packageProductDependencies = (
+			);
+			productName = FlutteriOSIntegrate;
+			productReference = 3B45BD2D2D19A8450077DD1D /* FlutteriOSIntegrate.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3B45BD3C2D19A8460077DD1D /* FlutteriOSIntegrateTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B45BD542D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrateTests" */;
+			buildPhases = (
+				3B45BD392D19A8460077DD1D /* Sources */,
+				3B45BD3A2D19A8460077DD1D /* Frameworks */,
+				3B45BD3B2D19A8460077DD1D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B45BD3F2D19A8460077DD1D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3B45BD402D19A8460077DD1D /* FlutteriOSIntegrateTests */,
+			);
+			name = FlutteriOSIntegrateTests;
+			packageProductDependencies = (
+			);
+			productName = FlutteriOSIntegrateTests;
+			productReference = 3B45BD3D2D19A8460077DD1D /* FlutteriOSIntegrateTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3B45BD462D19A8460077DD1D /* FlutteriOSIntegrateUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B45BD572D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrateUITests" */;
+			buildPhases = (
+				3B45BD432D19A8460077DD1D /* Sources */,
+				3B45BD442D19A8460077DD1D /* Frameworks */,
+				3B45BD452D19A8460077DD1D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3B45BD492D19A8460077DD1D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3B45BD4A2D19A8460077DD1D /* FlutteriOSIntegrateUITests */,
+			);
+			name = FlutteriOSIntegrateUITests;
+			packageProductDependencies = (
+			);
+			productName = FlutteriOSIntegrateUITests;
+			productReference = 3B45BD472D19A8460077DD1D /* FlutteriOSIntegrateUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B45BD252D19A8450077DD1D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					3B45BD2C2D19A8450077DD1D = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					3B45BD3C2D19A8460077DD1D = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 3B45BD2C2D19A8450077DD1D;
+					};
+					3B45BD462D19A8460077DD1D = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 3B45BD2C2D19A8450077DD1D;
+					};
+				};
+			};
+			buildConfigurationList = 3B45BD282D19A8450077DD1D /* Build configuration list for PBXProject "FlutteriOSIntegrate" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B45BD242D19A8450077DD1D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3B45BD2E2D19A8450077DD1D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B45BD2C2D19A8450077DD1D /* FlutteriOSIntegrate */,
+				3B45BD3C2D19A8460077DD1D /* FlutteriOSIntegrateTests */,
+				3B45BD462D19A8460077DD1D /* FlutteriOSIntegrateUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B45BD2B2D19A8450077DD1D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD3B2D19A8460077DD1D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD452D19A8460077DD1D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B45BD292D19A8450077DD1D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD392D19A8460077DD1D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3B45BD432D19A8460077DD1D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3B45BD3F2D19A8460077DD1D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B45BD2C2D19A8450077DD1D /* FlutteriOSIntegrate */;
+			targetProxy = 3B45BD3E2D19A8460077DD1D /* PBXContainerItemProxy */;
+		};
+		3B45BD492D19A8460077DD1D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3B45BD2C2D19A8450077DD1D /* FlutteriOSIntegrate */;
+			targetProxy = 3B45BD482D19A8460077DD1D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3B45BD4F2D19A8460077DD1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3B45BD502D19A8460077DD1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3B45BD522D19A8460077DD1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FlutteriOSIntegrate/Preview Content\"";
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter/$(CONFIGURATION)/",
+				);
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				"OTHER_LDFLAGS[arch=*]" = (
+					"-framework",
+					App,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3B45BD532D19A8460077DD1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FlutteriOSIntegrate/Preview Content\"";
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Flutter/$(CONFIGURATION)/",
+				);
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3B45BD552D19A8460077DD1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlutteriOSIntegrate.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlutteriOSIntegrate";
+			};
+			name = Debug;
+		};
+		3B45BD562D19A8460077DD1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlutteriOSIntegrate.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlutteriOSIntegrate";
+			};
+			name = Release;
+		};
+		3B45BD582D19A8460077DD1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlutteriOSIntegrate;
+			};
+			name = Debug;
+		};
+		3B45BD592D19A8460077DD1D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XL93Z6N498;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = example.FlutteriOSIntegrateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlutteriOSIntegrate;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B45BD282D19A8450077DD1D /* Build configuration list for PBXProject "FlutteriOSIntegrate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B45BD4F2D19A8460077DD1D /* Debug */,
+				3B45BD502D19A8460077DD1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B45BD512D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B45BD522D19A8460077DD1D /* Debug */,
+				3B45BD532D19A8460077DD1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B45BD542D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrateTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B45BD552D19A8460077DD1D /* Debug */,
+				3B45BD562D19A8460077DD1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B45BD572D19A8460077DD1D /* Build configuration list for PBXNativeTarget "FlutteriOSIntegrateUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B45BD582D19A8460077DD1D /* Debug */,
+				3B45BD592D19A8460077DD1D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3B45BD252D19A8450077DD1D /* Project object */;
+}
